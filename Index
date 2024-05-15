@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Formula 1</title>
+	<link rel="stylesheet" href="Estilos.css">
+</head>
+
+<body>
+
+	<h1 style="background-color: rgb(219, 40, 16)">Equipas De Fórmula 1 - 2024 </h1>
+
+	<br><br>
+
+	<div id="container">
+		<a href="Alpine.html">
+			<div>
+				<p>Alpine</p>
+				<img src="Team/Alpine.jpg">
+			</div>
+		</a>
+		<a href="Aston Martin.html">
+			<div>
+				<p>Aston Martin</p>
+				<img src="Team/Aston Martin.png">
+			</div>
+		</a>
+
+		<a href="Haas.html">
+			<div>
+				<p> Haas</p>
+				<img src="Team/Haas.png">
+			</div>
+		</a>
+
+		<a href="Kick Sauber.html">
+			<div>
+				<p>Kick Sauber</p>
+				<img src="Team/Kick Sauber.jpg">
+			</div>
+		</a>
+		<a href="McLaren.html">
+			<div>
+				<p>McLaren</p>
+				<img src="Team/McLaren.jpg">
+			</div>
+		</a>
+
+		<a href="Mercedes.html">
+			<div>
+				<p>Mercedes</p>
+				<img src="Team/Mercedes.png">
+			</div>
+		</a>
+
+		<a href="RB.html">
+			<div>
+				<p>RB</p>
+				<img src="Team/RB.jpg">
+			</div>
+		</a>
+
+		<a href="Red Bull Racing.html">
+			<div>
+				<p>Red Bull Racing</p>
+				<img src="Team/Red Bull Racing.jfif">
+			</div>
+		</a>
+
+		<a href="Scuderia Ferrari.html">
+			<div>
+				<p>Scuderia Ferrari</p>
+				<img src="Team/Scuderia Ferrari.png">
+			</div>
+		</a>
+
+		<a href="Williams.html">
+			<div>
+				<p>Williams</p>
+				<img src="Team/Williams.jpg">
+			</div>
+		</a>
+		
+	</div>
+
+
+
+</body>
+
+</html>
