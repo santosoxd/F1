@@ -1,1 +1,51 @@
 
+body {
+    background-color: rgba(136, 136, 136, 0.2);
+}
+
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: serif;
+    font-size: 300%;
+    border-radius: 15px;
+    /* Adiciona bordas arredondadas */
+    background-color: rgba(122, 122, 122, 0.685);
+}
+
+#container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 350px 350px;
+    gap: 30px;
+    text-align: center;
+}
+
+
+p {
+    color: black;
+    font-family: verdana;
+    font-size: 275%;
+    margin: 5%;
+    margin-bottom: 2;
+    font-family: serif;
+}
+
+#container>a {
+    border: 2px solid red;
+}
+
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:link,
+:visited {
+    text-decoration: none
+}
